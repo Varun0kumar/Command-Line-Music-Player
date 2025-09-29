@@ -1,0 +1,2 @@
+To compile : gcc "CL Music Player.c" -o CLMusicPlayer.exe -lwinmm
+To run : ./CLMusicPlayer.exe
